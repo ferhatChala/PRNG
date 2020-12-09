@@ -1,0 +1,17 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\BHLL\Desktop\PRNG\myPRNG.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\BHLL\Desktop\PRNG\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_211
+Check launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe (OK)
+Main class:	prng.main
+Add classpath:	lib\jfoenix-8.0.8.jar
+Add classpath:	lib\jfoenix-9.0.8.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\BHLL\Desktop\PRNG\myPRNG.exe;lib\jfoenix-8.0.8.jar;lib\jfoenix-9.0.8.jar" prng.main
+Args length:	104/32768 chars
+Exit code:	0
